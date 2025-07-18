@@ -35,7 +35,6 @@ void main() {
       default:
         print("Invalid");
     }
-     
     print("The result is: $result");
   }
 }
